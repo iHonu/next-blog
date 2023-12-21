@@ -52,6 +52,9 @@
 }
 
 @media screen and (max-width: 640px) {
+  .links {
+    justiy-content: flex;
+  }
   .link {
     display: none;
   }
